@@ -1,5 +1,5 @@
 # DID_Control
-System Dynamic Final Project @National Taiwan University Department of Mechanical Engineering
+System Dynamic Final Project @National Taiwan University Department of Mechanical Engineering  
 Disturbance Input Decoupling (DID) used to solve the vibration issue of a dangerous liguid with unknown property.   
 Disturbance input decoupling is a cancellation technique where the disturbance is fed to the controller output in opposition to the effect of the disturbance.  
 
